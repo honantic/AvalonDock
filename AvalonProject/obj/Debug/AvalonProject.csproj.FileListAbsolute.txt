@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\bin\Debug\AvalonProject.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\AvalonProject.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\AvalonProject_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\bin\Debug\AvalonProject.exe
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\bin\Debug\AvalonProject.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\AvalonProject.g.resources
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\AvalonProject.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\AvalonProject.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\AvalonProject.exe
+c:\users\administrator\documents\visual studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\AvalonProject.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AvalonProject\AvalonProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\TestPage.baml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\AvalonProject\AvalonProject\obj\Debug\TestPage.g.cs
